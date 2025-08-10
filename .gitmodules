@@ -1,0 +1,3 @@
+[submodule "custom_nodes/ivan_knows"]
+	path = custom_nodes/ivan_knows
+	url = https://github.com/Babiduba/ivan_knows.git

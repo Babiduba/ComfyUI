@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+# Folders
 /output/
 /input/
 !/input/example.png
@@ -7,6 +8,7 @@ __pycache__/
 /temp/
 /custom_nodes/
 !custom_nodes/example_node.py.example
+!/custom_nodes/ivan_knows/
 extra_model_paths.yaml
 /.vs
 .vscode/
@@ -24,3 +26,4 @@ web_custom_versions/
 openapi.yaml
 filtered-openapi.yaml
 uv.lock
+
